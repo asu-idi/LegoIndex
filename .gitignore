@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+*.egg
+build/
+dist/
+openpmd_viewer.egg-info/
+.cache/
+.eggs/
+.vs/
+__pycache__
